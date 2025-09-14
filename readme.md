@@ -1,4 +1,4 @@
-# Venyora Ecommerce
+# Venyora
 
 Venyora is a full-stack e-commerce web application built with a modern tech stack. It provides a seamless shopping experience for users, allowing them to browse products, add items to their cart, and checkout. The project features a separate frontend and backend, with a RESTful API for communication.
 
