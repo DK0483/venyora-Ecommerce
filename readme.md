@@ -4,6 +4,12 @@ Venyora is a full-stack e-commerce web application built with a modern tech stac
 
 -----
 
+## Live Link
+
+You can view the live application here: [https://venyoraa.netlify.app/](https://venyoraa.netlify.app/)
+
+-----
+
 ## Features
 
   * **User Authentication:** Users can sign up, log in, and log out. Passwords are encrypted using **bcryptjs** for security. JSON Web Tokens (JWT) are used for session management.
@@ -51,7 +57,7 @@ To get a local copy up and running follow these simple steps.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/venyora-ecommerce.git
+    git clone [https://github.com/your-username/venyora-ecommerce.git](https://github.com/your-username/venyora-ecommerce.git)
     ```
 
 2.  **Navigate to the project directory:**
@@ -110,3 +116,4 @@ The following are the API endpoints available in the application:
 ### Message Routes (`/api/messages`)
 
   * `POST /`: Save a new message from the contact form.
+````
